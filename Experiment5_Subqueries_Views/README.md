@@ -1,6 +1,4 @@
 # Experiment 5: Subqueries and Views
-## NAME:RAGUL K
-## REG.NO:212224040258
 ## AIM
 To study and implement subqueries and views.
 
